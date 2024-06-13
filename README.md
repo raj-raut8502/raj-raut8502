@@ -1,6 +1,6 @@
 # Hi there, I'm Raj Raut 👋
 
-![Profile Banner](URL_TO_YOUR_BANNER_IMAGE)
+![Profile Banner](https://github.com/raj-raut8502/raj-raut8502/blob/main/Github_Banner.png)
 
 ## 🚀 About Me
 
